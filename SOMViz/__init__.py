@@ -1,0 +1,2 @@
+from SOMVisualizer import SOMVisualizer
+from SOMVizGlobals import SOMVizGlobals
